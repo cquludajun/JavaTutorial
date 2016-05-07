@@ -1,2 +1,6 @@
 .idea
 out
+*.iml
+*~
+*.swp
+.DS_Store
